@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">Mi Tienda Virtual</string>
+    <string name="mensaje_inicio">Bienvenidos a la nueva experiencia en compras, busca y encuentra cualquier aritculo en el que estes interesado</string>
+    <string name="comenzar">Ingresar a Comprar</string>
+    <string name="registrarse">Para ingregsar debes registrarte </string>
+    <string name="hint_contrena">Contraseña</string>
+    <string name="texto_iniciar_sesion">Iniciar Sesión</string>
+    <string name="texto_olvidaste_contraseña">¿Olvidaste tu contraseña?</string>
+    <string name="texto_crear_cuenta">Crear cuenta</string>
+    <string name="texto_nicia_sesion_con_google">Iniciar Sesion Con Google</string>
+    <string name="texto_usuario_o_correo">Usuario o Correo</string>
+    <string name="texto_registrarse">Registrarse</string>
+    <string name="texto_nombre">Nombre</string>
+    <string name="texto_apellido">Apellido</string>
+    <string name="texto_correo">Correo</string>
+    <string name="texto_contrasena">contrasena</string>
+    <string name="texto_confirmar_contrasena">Confirmar contrasena</string>
+    <string name="texto_crear_tu_cuenta">Crear cuenta</string>
+    <string name="ya_tienes_cuenta_inicia_sesion">¿ Ya tienes cuenta? inicia sesion</string>
+    <string name="nombre_del_producto">Nombre del Producto</string>
+    <string name="precio">$0.00</string>
+    <string name="a_adir_al_carrito">Añadir al carrito</string>
+    <string name="computadores">Computadores</string>
+    <string name="precio_">$10.00</string>
+    <string name="precios_">$15.00</string>
+    <string name="texto_accesorios">Accesorios</string>
+    <string name="texto_volver_al_inicio">Volver al Inicio</string>
+    <string name="cart">Carrito de Compras</string>
+
+
+</resources>
