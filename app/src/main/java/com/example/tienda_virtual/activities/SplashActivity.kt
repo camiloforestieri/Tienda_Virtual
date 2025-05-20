@@ -7,7 +7,7 @@ import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
 import com.example.tienda_virtual.R
 
-class splashActivity : AppCompatActivity() {
+class SplashActivity : AppCompatActivity() {
 
     private val SPLASH_TIME_OUT: Long= 3000
 
@@ -16,7 +16,7 @@ class splashActivity : AppCompatActivity() {
         setContentView(R.layout.activity_splash)
 
         Handler(Looper.getMainLooper()).postDelayed({
-            val intent = Intent(this, homeActivity::class.java)
+            val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)
             finish()
         } ,SPLASH_TIME_OUT)

@@ -21,4 +21,11 @@
     <string name="precios_">$15.00</string>
     <string name="texto_accesorios">Accesorios</string>
     <string name="texto_volver_al_inicio">Volver al Inicio</string>
+    <string name="nombre_del_producto_">nombre del producto</string>
+    <string name="precio_producto">$00.0</string>
+    <string name="detalle_del_producto">detalle del producto</string>
+    <string name="comprar_producto">Comprar Producto</string>
+    <string name="ubicaci_n_1" />
+    <string name="ubicaci_n_2" />
+    <string name="ubicaci_n_3" />
 </resources>
